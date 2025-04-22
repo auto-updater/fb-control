@@ -1,0 +1,18 @@
+{
+    "last_updated": "2025-04-22",
+    "doc_ids": {
+        "FBScrapingWarningMutation": "6339492849481770",
+        "AdditionalProfilePlusCreationMutation": "8146768482082105",
+        "AdditionalProfilePlusEditMutation": "6470849629597825",
+        "ProfilePlusMarkReauthedMutation": "5048033918567225",
+        "ProfilePlusCoreAppAdminInviteMutation": "9080412018744379",
+        "CometUFIFeedbackReactMutation": "9232085126871383",
+        "useCometUFICreateCommentMutation": "23886260880997408",
+        "ComposerStoryCreateMutation": "23865245919734034",
+        "useCometPollAddVoteMutation": "29920162877570984",
+        "CometUserFollowMutation": "9958189347559799",
+        "CometProfilePlusLikeMutation": "6716077648448761",
+        "GroupCometJoinForumMutation": "9208589639268737",
+        "useGroupRequestToJoinMutation": "9763726883670307"
+    }
+}
