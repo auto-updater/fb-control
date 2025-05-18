@@ -1,4 +1,4 @@
-# Version 2.2.0 Release Notes
+# Control V2.2.0 Release Notes
 
 ## New Features
 - Initial release with auto-update functionality

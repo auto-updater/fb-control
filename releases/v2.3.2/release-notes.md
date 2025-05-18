@@ -1,4 +1,4 @@
-# Control Panel v2.3.2
+# Control V2.3.2 Release Notes
 
 Release Date: May 02, 2025
 
