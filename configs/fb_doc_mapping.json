@@ -1,5 +1,5 @@
 {
-    "last_updated": "18-05-2025 02:45:24 PM",
+    "last_updated": "19-05-2025 07:53:24 PM",
     "doc_ids": {
         "FBScrapingWarningMutation": "6339492849481770",
         "AdditionalProfilePlusCreationMutation": "10085210741491515",
@@ -8,7 +8,7 @@
         "ProfilePlusCoreAppAdminInviteMutation": "9616808365040833",
         "CometUFIFeedbackReactMutation": "29333620026283566",
         "useCometUFICreateCommentMutation": "9047080602060423",
-        "ComposerStoryCreateMutation": "9908905722506681",
+        "ComposerStoryCreateMutation": "9533602263402679",
         "useCometPollAddVoteMutation": "8894689800634399",
         "CometUserFollowMutation": "24034012419524524",
         "CometProfilePlusLikeMutation": "24452064861060493",
