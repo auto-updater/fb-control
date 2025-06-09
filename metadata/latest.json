@@ -1,10 +1,10 @@
 {
   "version": "2.3.4",
-  "releaseDate": "2025-06-09T14:39:49Z",
+  "releaseDate": "2025-06-09T14:56:43Z",
   "force_update": false,
   "deprecated_versions": [],
   "download_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.4/Control.exe",
   "release_notes_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.4/release-notes.md",
-  "sha512": "fcd6da47b6e3942faa186f5698166efb20c2274c6f6fe57a7194de4cc36c82c969e0f9ff0012741e140ef8507dda5b517f6439df4681a2b3ef8b2ee74a9338f1",
+  "sha512": "6b30b4b9790c01e6ae4ac6c3567f016b1d265aa95651601e9f6d9daa76bcf22521367b370c9e391bff61c1482f887f19e51b4295902e962f2066bab74b23f876",
   "size_bytes": 11571712
 }
