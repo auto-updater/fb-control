@@ -1,0 +1,9 @@
+{
+  "version": "2.3.5",
+  "releaseDate": "2025-08-09T20:04:00Z",
+  "force_update": false,
+  "download_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.5/Control.exe",
+  "release_notes_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.5/release-notes.md",
+  "sha512": "ad47e4bbded1c9505893e1f96f807eafb68648610e15d4f3c240f624e1d22efde3d1549bfc0dfb05010dba23c5f888a68935d5f506feb50665950583ef7fd0b7",
+  "size_bytes": 11501056
+}
