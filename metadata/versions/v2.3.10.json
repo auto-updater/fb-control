@@ -1,0 +1,9 @@
+{
+  "version": "2.3.10",
+  "releaseDate": "2026-01-01T17:53:54Z",
+  "force_update": false,
+  "download_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.10/Control.exe",
+  "release_notes_url": "https://raw.githubusercontent.com/auto-updater/fb-control/refs/heads/main/releases/v2.3.10/release-notes.md",
+  "sha512": "f79bb69402e822b11698c5bab3a5d40d9e8fd382f2beee6acd18efebb87e212c7d256e2d415cfbe9d3c2c3911e708952da493aa9a9d94bfec291f9f7b2e9e65b",
+  "size_bytes": 11566080
+}
