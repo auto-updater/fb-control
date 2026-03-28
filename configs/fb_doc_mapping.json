@@ -1,19 +1,19 @@
 {
-    "last_updated": "23-02-2026 09:50:48 PM",
+    "last_updated": "28-03-2026 06:08:48 AM",
     "doc_ids": {
         "FBScrapingWarningMutation": "24406519995698862",
         "AdditionalProfilePlusCreationMutation": "23863457623296585",
         "AdditionalProfilePlusEditMutation": "9799341016792282",
         "ProfilePlusMarkReauthedMutation": "24066063156313418",
-        "ProfilePlusCoreAppAdminInviteMutation": "26590697433850285",
-        "ProfilePlusCometAcceptOrDeclineAdminInviteMutation": "33525122957135374",
-        "CometUFIFeedbackReactMutation": "33371893662453814",
-        "useCometUFICreateCommentMutation": "26230670883236225",
-        "ComposerStoryCreateMutation": "26264075519853494",
-        "useCometPollAddVoteMutation": "25945636661732005",
-        "CometUserFollowMutation": "34817236947874971",
+        "ProfilePlusCoreAppAdminInviteMutation": "26222265997429595",
+        "ProfilePlusCometAcceptOrDeclineAdminInviteMutation": "26294030476957649",
+        "CometUFIFeedbackReactMutation": "34430477113234631",
+        "useCometUFICreateCommentMutation": "26225722187077813",
+        "ComposerStoryCreateMutation": "26875298538720295",
+        "useCometPollAddVoteMutation": "26498099119880743",
+        "CometUserFollowMutation": "26006040582425094",
         "CometProfilePlusLikeMutation": "25463905889878308",
-        "GroupCometJoinForumMutation": "26920761030843867",
-        "useGroupRequestToJoinMutation": "26214898411530182"
+        "GroupCometJoinForumMutation": "26177277275304712",
+        "useGroupRequestToJoinMutation": "26198615273124192"
     }
 }
